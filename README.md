@@ -5,7 +5,7 @@ Listen for sink changes on the default Pulseaudio server
 
 Clone repository:
 ```
-git clone https://github.com/Audio4Linux/PulseConnectionListener
+git clone https://github.com/robert5974/PulseConnectionListener
 cd PulseConnectionListener
 ```
 
